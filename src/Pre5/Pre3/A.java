@@ -1,6 +1,6 @@
 package Pre5.Pre3;
 
 public interface A {
-     int pi=3;
+     double pi=3.14;
      double area();
 }
